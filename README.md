@@ -1,4 +1,4 @@
-## Sentiment Classification on MOvie Review Dataset
+# Sentiment Classification on Movie Review Dataset
 This repository contains the implementation of a sentence-level sentiment classification system built on top of pretrained word embeddings such as Word2Vec and GloVe. The project explores standard Natural Language Processing (NLP) techniques and deep learning architectures — including **RNN, CNN, BiLSTM, and BiGRU** — to effectively assign sentiment labels to sentences.
 
 To further enhance model performance, we also experimented with **Ensemble** methods, combining predictions from multiple models to achieve more robust results.
