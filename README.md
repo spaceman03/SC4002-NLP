@@ -64,4 +64,4 @@ As the project is run using Python, please ensure that Python 3.12 is installed 
     jupyter notebook
     ```
 
-2. Open and run `SC4002_G10_Word2vec_backoff.ipynb` within the Jupyter interface.
+2. Open and run `SC4002_G10_Word2vec_Backoff.ipynb` within the Jupyter interface.
