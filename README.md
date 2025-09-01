@@ -28,18 +28,18 @@ biLSTM | 78.33% | **79.17%** | 78.33% |
 biGRU | 72.70% | 80.30% | **80.39%** |
 CNN | 77.95% | 77.67% | **79.17%** |
 RNN (Update Word Embeddings) | 78.70% | 79.64% | **80.95%** |
-Emsemble | 81.23% | 81.14% | **82.27%** |
+Ensemble | 81.23% | 81.14% | **82.27%** |
 
 ### GloVe: Model Accuracy (%) by OOV Handling Strategy
 | Model | Cosine Similarity | BPE + Stemming | Back Off Method (sympell + stopwords) |
 |:---|:---|:---| :--- |
-RNN (Handle OOV) | 78.04% | 78.70% | 76.54% |
-RNN (Handle OOV with Word Embeddings Update | 80.58% | 81.70% | 81.42% |
-biLSTM | 80.39% | 81.14% | 82.45% |
-biGRU | 81.42% | 81.14% | 81.98% |
-CNN | 74.10% | 78.42% | 79.08% |
-RNN (Update Word Embeddings) | 78.14% | 67.26% | 81.33% |
-Emsemble | 82.00% | 82.64% | 83.39% |
+RNN (Handle OOV) | 78.04% | **78.70%** | 76.54% |
+RNN (Handle OOV with Word Embeddings Update | 80.58% | **81.70%** | 81.42% |
+biLSTM | 80.39% | 81.14% | **82.45%** |
+biGRU | 81.42% | 81.14% | **81.98% **|
+CNN | 74.10% | 78.42% | **79.08%** |
+RNN (Update Word Embeddings) | 78.14% | 67.26% | **81.33%** |
+Ensemble | 82.00% | 82.64% | **83.39%** |
 
 ## Getting Started
 
